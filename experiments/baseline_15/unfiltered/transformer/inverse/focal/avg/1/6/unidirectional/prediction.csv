@@ -1,0 +1,449 @@
+message,label,pred,prob
+Downlink Restored (after 0m 1.2s).,normal,normal,0.97163886
+Low Power. Returning home.,medium,medium,0.99736905
+Home Point Recorded.,normal,normal,0.9985879
+Lighting environment too dark. Visual positioning inaccurate. Fly with caution,low,low,0.99721825
+Your palm is too close to the aircraft. Please step farther away.,low,low,0.9962864
+Fly with caution and ensure the aircraft remains within your line of sight.,normal,normal,0.9858307
+ActiveTrack Flight Ended: Aircraft is entering a restricted area,high,medium,0.79200363
+Ground Plain. Safe to Land.,normal,normal,0.99166685
+Data Recorder File Index is 15.,normal,normal,0.996183
+Strong wireless interference. Please fly with caution.,low,low,0.99632615
+Home Point Recorded. RTH Altitude : 30m.,normal,normal,0.99529785
+Extra payload detected. Return the aircraft to an area nearby the home point promptly to ensure flight safety,low,low,0.9745145
+GPS Position Mismatch.,medium,medium,0.99089265
+Payload mode enabled. Return the aircraft to an area nearby the home point promptly to ensure flight safety,normal,normal,0.8373572
+Taking Off.,normal,normal,0.9987105
+RTH : Cruise.,normal,normal,0.98004556
+Home Point Recorded.,normal,normal,0.9985879
+Attitude is too large.,low,low,0.99946016
+"Unknown Error, Cannot Takeoff. Contact DJI support",low,low,0.98721826
+GPS Position Mismatch.,medium,medium,0.99089265
+Max Flight Altitude Reached. Adjust in Main Controller Settings if necessary,low,low,0.9869026
+Lens not connected,low,low,0.9971505
+GPS Position Mismatch.,medium,medium,0.99089265
+Precision Landing. Correcting Landing Position.,normal,normal,0.99743783
+GPS Position Mismatch.,medium,medium,0.99089265
+Fly with caution and ensure the aircraft remains within your line of sight.,normal,normal,0.9858307
+Warning: Motor Obstructed,medium,high,0.6117551
+GPS Position Mismatch.,medium,medium,0.99089265
+GPS Position Mismatch.,medium,medium,0.99089265
+"Camera busy, cannot enter playback",low,low,0.89905834
+High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.,medium,medium,0.9920415
+GPS Position Mismatch.,medium,medium,0.99089265
+GPS Position Mismatch.,medium,medium,0.99089265
+Home Point recorded. Return-to-Home Altitude : 98FT,normal,normal,0.9922891
+GPS Position Mismatch.,medium,medium,0.99089265
+Aircraft out of Range,medium,medium,0.96359366
+Obstacle Avoided. Revise Flight Route,medium,medium,0.936793
+Strong wireless interference. Please fly with caution.,low,low,0.99632615
+Downward vision sensor error. Contact DJI Support for assistance,high,medium,0.9105154
+GPS Position Mismatch.,medium,medium,0.99089265
+Low Power. Aircraft is returning to the Home Point.,medium,medium,0.9957425
+Ambient Light is too weak.,low,low,0.99812204
+GPS Position Mismatch.,medium,medium,0.99089265
+GPS Position Mismatch.,medium,medium,0.99089265
+GPS Position Mismatch.,medium,medium,0.99089265
+Home Point recorded. Return-to-Home Altitude : 98FT,normal,normal,0.9922891
+Taking Off.,normal,normal,0.9987105
+Landing Canceled.,normal,normal,0.9970732
+Obstacle Sensing will be disabled when aircraft is landing. Fly with caution.,normal,normal,0.9894755
+Loading database failed. Geo-awareness function degraded,low,low,0.79223806
+Arrived at End Point,normal,normal,0.94303495
+Large Wind Velocity.,medium,medium,0.99309677
+Sensing system is blocked or too close to the obstacle.,low,low,0.97554296
+Home Point Recorded. RTH Altitude : 30m.,normal,normal,0.99529785
+GPS Position Mismatch.,medium,medium,0.99089265
+Satellite positioning off. Fly with Caution.,low,low,0.99764794
+GPS Position Mismatch.,medium,medium,0.99089265
+GPS Position Mismatch.,medium,medium,0.99089265
+Yaw Error.,low,low,0.9961808
+Landing gear lowered. Obstacle Avoidance Disabled.,normal,normal,0.9886043
+Taking off.,normal,normal,0.9968495
+Obstacle Sensing will be disabled when aircraft is landing. Fly with caution.,normal,normal,0.9894755
+Remote controller assisted takeoff initiated.,normal,normal,0.99282855
+GPS Position Mismatch.,medium,medium,0.99089265
+High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.,medium,medium,0.9920415
+Gimbal nnn pan axis endpoint reached,normal,normal,0.7964549
+Weak GPS signal. Aircraft is in Attitude mode and hovering may be unstable. Fly with caution.,medium,medium,0.93138194
+Landing Gear Lowering.,normal,normal,0.99936396
+Calibration target not far away enough. Please calibrate using infinity,low,low,0.99877733
+GPS Position Mismatch.,medium,medium,0.99089265
+Remote Controller Right Dial Locked. Lightly press it to adjust.,low,low,0.99452657
+Warning: Command Failed,medium,medium,0.5950371
+Landing.,normal,normal,0.99908245
+GPS Position Mismatch.,medium,medium,0.99089265
+Precision Landing,normal,normal,0.99871564
+Taking Off.,normal,normal,0.9987105
+Data Recorder File Index is 12.,normal,normal,0.99629754
+Braking now! Return sticks to midpoints first.,low,low,0.9968027
+Capture Failed Shooting is currently not permitted,low,low,0.96338564
+Obstacle Avoided. Revise Flight Route,medium,medium,0.936793
+Motor or propeller error. Check the motors and propellers.,medium,medium,0.661034
+Backward Obstacle Sensing is not functioning.,low,low,0.99834573
+Cannot Identify Subject,low,low,0.992128
+SD card write speed is too slow. Not suitable for shooting a 4K video.,low,low,0.9918465
+At least two Waypoints are needed,normal,normal,0.7336986
+Obstacle Avoidance disabled. Landing gear lowered. Obstacle Avoidance has been disabled.,normal,normal,0.9906426
+GPS Position Mismatch.,medium,medium,0.99089265
+Aircraft out of Range,medium,medium,0.96359366
+Compass abnormal Solution: 1. Ensure there are no magnets or metal objects near the aircraft. The ground or walls may contain metal. Move away from sources of interference before attempting flight. 2. Calibrate Compass Before Takeoff,low,low,0.8970806
+Fly with caution and ensure the aircraft remains within your line of sight.,normal,normal,0.9858307
+PalmControl in Process,normal,normal,0.9543551
+GPS Position Mismatch.,medium,medium,0.99089265
+The remaining battery is only enough for RTH. Return home now.,medium,medium,0.9517031
+Taking Off.,normal,normal,0.9987105
+GPS Position Mismatch.,medium,medium,0.99089265
+Home Point Recorded. RTH Altitude : 30m.,normal,normal,0.99529785
+Precision Landing,normal,normal,0.99871564
+Obstacle Avoidance will be disabled in landing.,normal,normal,0.99791497
+Strong wind warning. Aircraft unable to return to home automatically. Lower altitude immediately and return to home manually,medium,medium,0.9903386
+GPS Position Mismatch.,medium,medium,0.99089265
+Taking Off.,normal,normal,0.9987105
+In Flight.,normal,normal,0.96005565
+Obstacle Avoidance will be disabled in landing.,normal,normal,0.99791497
+Return-to-Home Altitude : 65FT,normal,normal,0.98983836
+Tap to choose a valid zone.,normal,normal,0.9023818
+Mobile device version too old to support HD image transmission and the image transmission mode has been switch to normal mode.,low,low,0.98229235
+GPS Position Mismatch.,medium,medium,0.99089265
+GPS Position Mismatch.,medium,medium,0.99089265
+Yaw Error.,low,low,0.9961808
+Battery power low. Check battery status and charge or warm up battery,medium,medium,0.9680989
+PalmControl in Process,normal,normal,0.9543551
+Taking Off.,normal,normal,0.9987105
+Ground Plain. Safe to Land.,normal,normal,0.99166685
+Landing Gear Raising.,normal,normal,0.99949074
+GPS Position Mismatch.,medium,medium,0.99089265
+Obstacle Avoidance Disabled.,normal,normal,0.98060405
+RTH Altitude : 65FT.,normal,normal,0.99546754
+GPS Position Mismatch.,medium,medium,0.99089265
+Aircraft takeoff altitude error. Restart aircraft,low,normal,0.68149865
+Landing Gear Lowered.,normal,normal,0.9991136
+Landing Gear Lowered.,normal,normal,0.9991136
+Landing Gear Raising.,normal,normal,0.99949074
+Attitude is too large.,low,low,0.99946016
+GPS Position Mismatch.,medium,medium,0.99089265
+GPS Position Mismatch.,medium,medium,0.99089265
+Tap the screen lightly to focus.,normal,normal,0.9777945
+Downlink Lost.,low,low,0.9947674
+Braking now! Return sticks to midpoints first.,low,low,0.9968027
+High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution. High wind velocity. Fly with caution and land in a safe place ASAP.,medium,medium,0.9735464
+Accelerator is Over Range,medium,normal,0.6548252
+"Cannot switch flight mode. Turn on ""Multiple Flight Modes"" to enable Atti and Sport Modes.",medium,medium,0.9858773
+Strong Remote Controller Interference.,medium,medium,0.9655973
+Landing.,normal,normal,0.99908245
+"Home Point Recorded, Return-to-Home Altitude : 98FT",normal,normal,0.99706775
+GPS Position Mismatch.,medium,medium,0.99089265
+Set Flight Mode to GPS to fly safe,normal,normal,0.9868434
+GPS Position Mismatch.,medium,medium,0.99089265
+Critically Low Voltage Warning Aircraft will be forced to land,medium,medium,0.94015634
+Home Point Recorded.,normal,normal,0.9985879
+GPS Position Mismatch.,medium,medium,0.99089265
+RTH : Ascending to RTH altitude.,normal,normal,0.9833666
+GPS Position Mismatch.,medium,medium,0.99089265
+Obstacle Sensing will be disabled when aircraft is landing. Fly with caution.,normal,normal,0.9894755
+Downlink Restored (after 0m 5.6s).,normal,normal,0.9753938
+GPS Position Mismatch.,medium,medium,0.99089265
+Camera Settings Adjusted to ActiveTrack,normal,normal,0.9894099
+GPS Position Mismatch.,medium,medium,0.99089265
+Ambient Light too Weak,low,low,0.99669313
+GPS Position Mismatch.,medium,medium,0.99089265
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",low,low,0.9989159
+RTH altitude adjusted to nnn,normal,normal,0.8635742
+Landing.,normal,normal,0.99908245
+"Home Point Recorded, Return-to-Home Altitude : 98FT",normal,normal,0.99706775
+High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.,medium,medium,0.9920415
+GPS Position Mismatch.,medium,medium,0.99089265
+GPS Position Mismatch.,medium,medium,0.99089265
+RTH : Cruise.,normal,normal,0.98004556
+Compass Stuck. Restart Aircraft. Contact DJI Support if this persists.,low,low,0.96441156
+Your palm is too far away from the aircraft. Please step closer.,low,low,0.9971769
+Flight Mode Set to Attitude,normal,normal,0.99778026
+GPS Position Mismatch.,medium,medium,0.99089265
+Taking Off.,normal,normal,0.9987105
+GPS Position Mismatch.,medium,medium,0.99089265
+Precision Landing. Correcting Landing Position.,normal,normal,0.99743783
+Home Point Recorded. RTH Altitude : 30m.,normal,normal,0.99529785
+Taking Off.,normal,normal,0.9987105
+Cannot send ActiveTrack command,medium,low,0.6997897
+GPS Position Mismatch.,medium,medium,0.99089265
+Locating Landing Point,normal,normal,0.996077
+The remaining battery is only enough for RTH. Return home now.,medium,medium,0.9517031
+GPS Position Mismatch.,medium,medium,0.99089265
+Compass initialization failed. Restart aircraft,low,low,0.70420176
+GPS Position Mismatch.,medium,medium,0.99089265
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",low,low,0.9989159
+Landing.,normal,normal,0.99908245
+GPS Position Mismatch.,medium,medium,0.99089265
+Landing.,normal,normal,0.99908245
+Landing Canceled.,normal,normal,0.9970732
+Strong Interference to Aircraft. Signal interruption may be more likely. Fly with caution.,low,low,0.99721414
+Landing.,normal,normal,0.99908245
+Landing Gear Raising.,normal,normal,0.99949074
+Obstacle Avoidance will be disabled in landing.,normal,normal,0.99791497
+GPS Position Mismatch.,medium,medium,0.99089265
+In Flight.,normal,normal,0.96005565
+Home Point Recorded. RTH Altitude : 30m.,normal,normal,0.99529785
+Motor unable to rotate. Check for objects blocking motor or contact DJI Support for assistance ,high,high,0.77328455
+Strong Interference. Fly with caution.,low,low,0.9986304
+Another aircraft is nearby. Another aircraft is approaching. Descend as soon as possible,high,low,0.8397367
+GPS Position Mismatch.,medium,medium,0.99089265
+Landing Gear Raised.,normal,normal,0.9994301
+Strong wireless interference. Please fly with caution.,low,low,0.99632615
+Gyroscope initialization failed. Restart aircraft,medium,low,0.8014439
+Aircraft is entering a restricted area,high,high,0.8945681
+Home Point Updated.,normal,normal,0.9982241
+Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.,low,low,0.98515284
+Strong wireless interference. Please fly with caution.,low,low,0.99632615
+Strong Interference Detected. Be careful when flying long distances.,low,low,0.9983827
+Downlink Lost.,low,low,0.9947674
+Strong wireless interference. Please fly with caution.,low,low,0.99632615
+GPS Position Mismatch.,medium,medium,0.99089265
+Downlink Lost.,low,low,0.9947674
+Gimbal Roll Limit Reached.,low,low,0.9850659
+Exited Visual Avoidance System.,normal,normal,0.960684
+Landing Gear Lowering.,normal,normal,0.99936396
+Home Point Recorded. RTH Altitude : 30m.,normal,normal,0.99529785
+Compass direction is not the same with IMU,medium,normal,0.5465919
+Yaw Error.,low,low,0.9961808
+Intelligent Flight Modes have not been enabled. Enable this option in Main Controller Settings if needed.,normal,normal,0.9787957
+Set Flight Mode to GPS to fly safe,normal,normal,0.9868434
+Aircraft close to Home Point. go home shifts to landing.,normal,normal,0.9250784
+Weak GPS signal. Positioning accuracy may be compromised. Please fly with caution,low,low,0.9746935
+GPS Position Mismatch.,medium,medium,0.99089265
+GPS Position Mismatch.,medium,medium,0.99089265
+Failed to cancel landing,low,low,0.7514785
+Data Recorder File Index is 45.,normal,normal,0.99440336
+RTK Base Station Data Not Received,normal,low,0.9354268
+GPS Position Mismatch.,medium,medium,0.99089265
+Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.,low,low,0.98515284
+Cannot change current flight mode. Enable Multiple Flight Modes in Settings menu to change.,medium,medium,0.9748359
+GPS Position Mismatch.,medium,medium,0.99089265
+Return-to-Home Altitude : 98FT.,normal,normal,0.99142903
+Landing Gear Raised.,normal,normal,0.9994301
+GPS Position Mismatch.,medium,medium,0.99089265
+GPS Position Mismatch.,medium,medium,0.99089265
+Home Point Updated.,normal,normal,0.9982241
+Downlink Lost.,low,low,0.9947674
+Home Point Updated.,normal,normal,0.9982241
+Satellite positioning off. Fly with Caution.,low,low,0.99764794
+Fly with caution and ensure the aircraft remains within your line of sight.,normal,normal,0.9858307
+Large Wind Velocity. Fly with caution.,medium,medium,0.97270197
+GPS Position Mismatch.,medium,medium,0.99089265
+Gimbal Yaw Limit Reached,low,low,0.99581087
+GPS Position Mismatch.,medium,medium,0.99089265
+GPS Position Mismatch.,medium,medium,0.99089265
+GPS Position Mismatch.,medium,medium,0.99089265
+Data Recorder File Index is 7.,normal,normal,0.9951433
+GPS Position Mismatch.,medium,medium,0.99089265
+Taking off.,normal,normal,0.9968495
+GPS Position Mismatch.,medium,medium,0.99089265
+Landing.,normal,normal,0.99908245
+Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.,low,low,0.98515284
+GPS Position Mismatch.,medium,medium,0.99089265
+GPS Position Mismatch.,medium,medium,0.99089265
+GPS Position Mismatch.,medium,medium,0.99089265
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",low,low,0.9989159
+Critical low battery. Recharge promptly,medium,medium,0.8961589
+Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.,low,low,0.98515284
+Home Point Recorded.,normal,normal,0.9985879
+GPS Position Mismatch.,medium,medium,0.99089265
+GPS Position Mismatch.,medium,medium,0.99089265
+Attitude is too large.,low,low,0.99946016
+Fly with caution and ensure the aircraft remains within your line of sight.,normal,normal,0.9858307
+Maximum flight distance reached. Adjust the distance in MC Settings if required.,low,low,0.98478556
+Exited Visual Avoidance System.,normal,normal,0.960684
+Taking Off.,normal,normal,0.9987105
+Aircraft is returning to the Home Point. Minimum RTH Altitude is 98ft. You can reset the RTH Altitude in Remote Controller Settings after cancelling RTH.,normal,normal,0.9804853
+Precision Landing. Rectifying aircraft position.,normal,normal,0.9977629
+Landing Gear Raised.,normal,normal,0.9994301
+GPS Position Mismatch.,medium,medium,0.99089265
+Setting new Maximum Flight Altitude to nnn,normal,normal,0.92851
+"Battery cell broken, please replace the battery",medium,low,0.6629721
+Home Point Recorded.,normal,normal,0.9985879
+Drag a box around or tap a target on screen. Then tap Go.,normal,normal,0.9550985
+Remote controller assisted takeoff initiated.,normal,normal,0.99282855
+Landing Gear Raised.,normal,normal,0.9994301
+Forward Obstacle Sensing is not functioning.,low,low,0.9982324
+Home Point Recorded. RTH Altitude : 30m.,normal,normal,0.99529785
+GPS Position Mismatch.,medium,medium,0.99089265
+Taking Off.,normal,normal,0.9987105
+Propeller Guard Mounted Propeller Guard mounted. Forward Obstacle Sensing will be automatically switched off,normal,low,0.35835117
+Strong wireless interference. Please fly with caution.,low,low,0.99632615
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",low,low,0.9989159
+Flight altitude exceeds nnn. Aircraft may be in violation of local laws and regulations. Check and make sure you have obtained proper authorization to fly in this airspace,low,low,0.9362201
+Aircraft out of Range,medium,medium,0.96359366
+Taking Off.,normal,normal,0.9987105
+GPS Position Mismatch.,medium,medium,0.99089265
+GPS Position Mismatch.,medium,medium,0.99089265
+Altitude Less than nnn. Cannot enable Follow Me Mode,low,low,0.9930559
+GPS Position Mismatch.,medium,medium,0.99089265
+Landing.,normal,normal,0.99908245
+Descending. Exited Visual Avoidance System,normal,normal,0.9740856
+High wind velocity. Fly with caution and land in a safe place ASAP.,medium,medium,0.9865611
+Precision Landing. Correcting Landing Position.,normal,normal,0.99743783
+Aircraft processor overheated. Automatically returning to home,high,high,0.8069004
+A passenger aircraft is approaching. Descend as soon as possible,high,low,0.48395753
+Downlink Lost.,low,low,0.9947674
+Failed to take off. Check the USB connection with aircraft. Contact DJI Support if this error persists after restarting,low,low,0.56585914
+Weak GPS signal. Aircraft is in Attitude mode and hovering may be unstable. Fly with caution.,medium,medium,0.93138194
+Obstacle Avoidance will be disabled in landing.,normal,normal,0.99791497
+GPS Position Mismatch.,medium,medium,0.99089265
+Fly with caution and ensure the aircraft remains within your line of sight.,normal,normal,0.9858307
+Precision Landing. Rectifying aircraft position.,normal,normal,0.9977629
+Tap the screen to focus.,normal,normal,0.9851431
+Braking now! Return sticks to midpoints first.,low,low,0.9968027
+Warning: Aircraft is less than nnn (minimum) away from the object below,low,low,0.965957
+GPS Position Mismatch.,medium,medium,0.99089265
+Propeller rotating too fast. Wind resistance affected. Return to home and land promptly. Check whether propeller on beeping ESC is warped or damaged,medium,high,0.5861822
+GPS Position Mismatch.,medium,medium,0.99089265
+Drag a box around or tap a target on screen. Then tap Go.,normal,normal,0.9550985
+GPS Position Mismatch.,medium,medium,0.99089265
+Take off in P-Mode,normal,normal,0.9959591
+Braking now! Return sticks to midpoints first.,low,low,0.9968027
+"Home Point Recorded, Return-to-Home Altitude : 98FT.",normal,normal,0.9968066
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",low,low,0.9989159
+High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.,medium,medium,0.9920415
+GPS Position Mismatch.,medium,medium,0.99089265
+GPS Position Mismatch.,medium,medium,0.99089265
+GPS Position Mismatch.,medium,medium,0.99089265
+Taking Off.,normal,normal,0.9987105
+Strong wireless interference. Please fly with caution.,low,low,0.99632615
+GPS Position Mismatch.,medium,medium,0.99089265
+GPS Position Mismatch.,medium,medium,0.99089265
+Cannot track subject: Forward Obstacle Sensing not Responding,low,low,0.9980215
+Home Point Recorded.,normal,normal,0.9985879
+Home Point Recorded. RTH Altitude : 30m.,normal,normal,0.99529785
+Tap the screen lightly to focus.,normal,normal,0.9777945
+Warning: Critically low battery. Please change the battery,medium,medium,0.7554069
+GPS Position Mismatch.,medium,medium,0.99089265
+High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.,medium,medium,0.9920415
+Downlink Lost.,low,low,0.9947674
+Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.,low,low,0.98515284
+Aircraft is close to the Home Point. Initiating Return to Home will now trigger Auto Landing.,normal,normal,0.94413614
+Motor nnn propeller detached or installed incorrectly,high,high,0.91560316
+GPS Position Mismatch.,medium,medium,0.99089265
+GPS Position Mismatch.,medium,medium,0.99089265
+RTH : Cruise.,normal,normal,0.98004556
+RTH Altitude : 65FT.,normal,normal,0.99546754
+GPS Position Mismatch.,medium,medium,0.99089265
+Switched to S (Sport)-mode.,normal,normal,0.99183536
+Downlink Restored (after 0m 1s).,normal,normal,0.9636084
+GPS Position Mismatch.,medium,medium,0.99089265
+Attitude is too large.,low,low,0.99946016
+GPS Position Mismatch.,medium,medium,0.99089265
+Compass Error. Compass disconnected,low,low,0.9561197
+Forward vision sensor error. Contact DJI Support for assistance,medium,medium,0.9678334
+GPS Position Mismatch.,medium,medium,0.99089265
+Large Wind Velocity.,medium,medium,0.99309677
+Drag a box around or tap a target on screen. Then tap Go.,normal,normal,0.9550985
+Strong wind warning. Aircraft unable to fly stably. Lower altitude immediately and manually return to home,medium,medium,0.9877516
+Cannot Takeoff in Travel Mode. Exit Travel Mode.,low,low,0.9895689
+Home Point Updated.,normal,normal,0.9982241
+Aircraft power insufficient. Fly with caution,medium,low,0.95861006
+Strong Interference. Fly with caution.,low,low,0.9986304
+Downlink Restored (after 0m 1.4s).,normal,normal,0.9722791
+Downlink Restored (after 0m 2.2s).,normal,normal,0.97477233
+GPS Position Mismatch.,medium,medium,0.99089265
+GPS Position Mismatch.,medium,medium,0.99089265
+Home Point Recorded. RTH Altitude : 30m.,normal,normal,0.99529785
+IMU calibration required. Calibrate IMU,low,low,0.8741264
+Landing Gear Lowered.,normal,normal,0.9991136
+Descending. Exited Visual Avoidance System,normal,normal,0.9740856
+GPS Position Mismatch.,medium,medium,0.99089265
+Warning: Motor Overloaded. Aircraft will decelerate to ensure safety,medium,medium,0.49764702
+Battery Alert Battery installation error. Please check the batteries are inserted correctly,medium,low,0.74915767
+"Braking now. Return sticks to midpoints, then continue flying.",low,low,0.9885876
+Attitude is too large.,low,low,0.99946016
+Gimbal Pitch Limit Reached.,low,low,0.99225193
+Camera Settings Adjusted to ActiveTrack,normal,normal,0.9894099
+GPS Position Mismatch.,medium,medium,0.99089265
+Home Point recorded. Return-to-Home Altitude : 98FT,normal,normal,0.9922891
+GPS Position Mismatch.,medium,medium,0.99089265
+Strong Interference Detected. Be careful when flying long distances.,low,low,0.9983827
+Data Recorder File Index is 19.,normal,normal,0.99572504
+GPS Position Mismatch.,medium,medium,0.99089265
+Max altitude reached (Altitude limit: nnn) ,low,normal,0.8727051
+Landing Gear Raising. Home Point Recorded,normal,normal,0.9987112
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",low,low,0.9989159
+Drag a box around or tap a target on screen. Then tap Go.,normal,normal,0.9550985
+Downlink Restored (after 0m 11.3s).,normal,normal,0.9821807
+Landing Gear Lowering.,normal,normal,0.99936396
+Strong wireless interference. Please fly with caution.,low,low,0.99632615
+Drone is Vibrating,low,low,0.4139554
+GPS Position Mismatch.,medium,medium,0.99089265
+Downlink Restored (after 0m 1.2s).,normal,normal,0.97163886
+Obstacle Avoidance will be disabled in landing.,normal,normal,0.99791497
+Weak signal. Avoid blocking the antennas and keep the antennas parallel to and facing toward the aircraft during flight.,medium,medium,0.9821566
+GPS Position Mismatch.,medium,medium,0.99089265
+Obstacle Avoidance will be disabled in landing.,normal,normal,0.99791497
+GPS Position Mismatch.,medium,medium,0.99089265
+Landing Gear Raising.,normal,normal,0.99949074
+Aircraft battery level low. Return to home promptly,medium,medium,0.9630723
+Obstacle Sensing will be disabled when aircraft is landing. Fly with caution.,normal,normal,0.9894755
+GPS Position Mismatch.,medium,medium,0.99089265
+Strong wireless interference. Please fly with caution.,low,low,0.99632615
+Gimbal Pitch Limit Reached.,low,low,0.99225193
+SD card speed low. Change card,low,medium,0.96364814
+Backward Obstacle Sensing is not functioning.,low,low,0.99834573
+Switched to P (Positioning)-mode.,normal,normal,0.98872465
+Correcting Landing Position,normal,normal,0.99297637
+API Automatic Return Home,normal,normal,0.50022435
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",low,low,0.9989159
+Cannot Identify Subject,low,low,0.992128
+PalmControl in Process,normal,normal,0.9543551
+GPS Position Mismatch.,medium,medium,0.99089265
+GPS Position Mismatch.,medium,medium,0.99089265
+Aircraft pitch angle too large. Ensure aircraft is level before taking off,low,low,0.7402831
+Your palm is too close to the aircraft. Please step farther away.,low,low,0.9962864
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",low,low,0.9989159
+Downward altitude sensor data error. Please contact DJI Support for help,low,low,0.5507129
+Gimbal Pitch Limit Reached.,low,low,0.99225193
+Current RTH route will pass a No-Fly zone. Pay attention to the aircraft's position to avoid RTH failure.,medium,medium,0.54895556
+High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.,medium,medium,0.9920415
+Taking Off.,normal,normal,0.9987105
+GPS Position Mismatch.,medium,medium,0.99089265
+Home Point Updated.,normal,normal,0.9982241
+Taking Off.,normal,normal,0.9987105
+High altitude. Aircraft braking distance increased and flight time decreased. Fly with caution,low,low,0.47018468
+Precision Landing. Rectifying aircraft position.,normal,normal,0.9977629
+Compass Error. Compass direction is not the same with IMU,low,low,0.9739216
+GPS Position Mismatch.,medium,medium,0.99089265
+PalmControl in Process,normal,normal,0.9543551
+RTK Base Station Data Not Received. Please make sure base station antenna is connected to the correct port,normal,low,0.96983856
+Aircraft out of Range,medium,medium,0.96359366
+Home Point Recorded.,normal,normal,0.9985879
+Aircraft settings updated to comply with national regulations,normal,normal,0.87650925
+Strong wireless interference. Please fly with caution.,low,low,0.99632615
+GPS Position Mismatch.,medium,medium,0.99089265
+QuickShot has ended,normal,normal,0.7449654
+GPS Position Mismatch.,medium,medium,0.99089265
+High wind velocity. Fly with caution.,medium,medium,0.9926872
+GPS Position Mismatch.,medium,medium,0.99089265
+Image Transmission Recovered. Aircraft is returning home.,normal,normal,0.7956469
+GPS Position Mismatch.,medium,medium,0.99089265
+GPS Position Mismatch.,medium,medium,0.99089265
+"Aircraft max power load reached. Decrease altitude and fly with caution. If this issue persists, land immediately",low,low,0.593258
+GPS Position Mismatch.,medium,medium,0.99089265
+GPS Position Mismatch.,medium,medium,0.99089265
+Downlink Restored (after 0m 1.5s).,normal,normal,0.97417736
+Data Recorder File Index is 8.,normal,normal,0.99542975
+Precision Landing. Rectifying aircraft position.,normal,normal,0.9977629
+GPS Position Mismatch.,medium,medium,0.99089265
+Data Recorder File Index is 5.,normal,normal,0.995793
+Maximum flight distance reached. Adjust the distance in MC Settings if required.,low,low,0.98478556
+Satellite positioning off. Fly with Caution.,low,low,0.99764794
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",low,low,0.9989159
+GPS Position Mismatch.,medium,medium,0.99089265
+Vision systems and obstacle avoidance disabled,low,normal,0.5824637
+Aircraft is close to the Home Point. Initiating Return to Home will now trigger Auto Landing.,normal,normal,0.94413614
+Camera Settings Adjusted,normal,normal,0.9808202
+Data Recorder File Index is 21.,normal,normal,0.9964269
+Downlink Lost.,low,low,0.9947674
+GPS Position Mismatch.,medium,medium,0.99089265
+Attitude is too large. Backward Obstacle Sensing is not functioning,low,low,0.9993864
+Backward Obstacle Sensing is not functioning.,low,low,0.99834573
+Propulsion output has been limited to ensure battery health.,normal,normal,0.8702212
+Taking Off.,normal,normal,0.9987105
+Executing waypoint mission,normal,normal,0.9566573
+Aircraft approaching obstacle sensing blind spot and may be unable to detect obstacles. Fly with caution,low,medium,0.69487584

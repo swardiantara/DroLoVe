@@ -1,0 +1,118 @@
+message,label,pred,prob
+API Automatic Takeoff,normal,normal,0.9998275
+Forward Obstacle Sensing not Responding,low,low,0.99914694
+Camera not calibrated. Image quality affected. Contact DJI Support for assistance,low,low,0.99988496
+Cannot start Self-Timer. Exposure time is too long,low,medium,0.9993399
+Cannot track subject: Subject too Small. Get Closer and retry,low,low,0.9998758
+Compass Interference. Temp Max Altitude: nnn,low,low,0.9997284
+No GPS signal. Unable to hover. Fly with caution,low,medium,0.9988206
+Critical low battery voltage,medium,medium,0.9997429
+Tap Fly Flight Ended Landing Gear Lowered,normal,normal,0.99976856
+Forward vision sensor error. Contact DJI Support for assistance,medium,medium,0.58873224
+Data Recorder File Index is 13.,normal,normal,0.9999356
+Strong Interference Detected. Be careful when flying long distances.,low,low,0.9993062
+Compass Redundancy Switch,normal,normal,0.82729775
+High Wind Velocity: Fly with caution and ensure the aircraft remains within your line of sight,medium,medium,0.9997118
+GPS signal weak. Hovering unstable. Fly with caution,low,medium,0.9976609
+"During Smart Track, you can control lens zoom within a certain limit",normal,normal,0.9987418
+Compass error Solution: Move away from ground magnetic interference,low,low,0.99975795
+Image Transmission Recovered. Aircraft is returning home.,normal,normal,0.999887
+RTH : Heading alignment.,normal,normal,0.999419
+GPS signal weak. Fly with caution. Aircraft in Altitude Zone. Max altitude set to nnn,low,low,0.9199284
+Landing gear lowered. Obstacle Avoidance has been disabled.,normal,normal,0.99983096
+Aircraft is returning to the starting point,normal,normal,0.9995376
+Landing gear lowered. Obstacle Avoidance Disabled.,normal,normal,0.9997259
+Downward altitude sensor data error. Please contact DJI Support for help,low,low,0.9943236
+Battery Alert Battery installation error. Please check the batteries are inserted correctly,medium,medium,0.99928075
+A passenger aircraft is approaching. Descend as soon as possible,high,low,0.39235824
+Landing Gear Raising. Home Point Recorded,normal,normal,0.999869
+Entered Cruise Control mode. Press C1 or C2 to exit,normal,normal,0.9995346
+Visual positioning inaccurate. Fly with caution,low,low,0.8317504
+Downlink Restored (after 0m 2.3s).,normal,normal,0.99993324
+Error: Course angle control error. Please ensure the propellers are installed on the correct motors,high,high,0.6709983
+Landing.,normal,normal,0.9993911
+"Exit Backward Forward Downward Upward Sensing system, Ambient Light is too weak",low,low,0.99975556
+Cannot track subject: Forward Obstacle Sensing not Responding,low,low,0.99780077
+Battery installed incorrectly. Detach battery and reinstall it,medium,medium,0.9997416
+Aircraft ActiveTrack available at max speed. Obstacle Avoidance is not available,medium,medium,0.9997917
+Mobile device version too old to support HD image transmission and the image transmission mode has been switch to normal mode.,low,medium,0.8069534
+"Camera busy, cannot enter playback",low,low,0.9637615
+Vision sensor error. Contact DJI Support for assistance,medium,high,0.89031625
+Another aircraft is nearby. Another aircraft is approaching. Descend as soon as possible,high,low,0.59966797
+Compass Error. Compass data error. Please contact DJI Support. Compass disconnected,low,low,0.99977976
+Cannot track subject: No image. Please retry,low,low,0.9993662
+Motor idle. Check whether propellers are installed,normal,medium,0.99654657
+Approaching NFZ or pre-set distance limit of (nnn). Revise Flight Route,medium,medium,0.99607193
+Gimbal nnn pitch axis endpoint reached,normal,normal,0.99978775
+Aircraft is in QuickShot Mode. Ensure your enviornment is free of potential obstacles.,normal,normal,0.99969244
+Battery power restricted. Aircraft performance decreased to ensure flight safety. Return to home promptly,medium,medium,0.9992016
+Camera RCAM not connected. Image quality affected. Contact DJI Support for assistance,low,low,0.99982977
+Critically Low Voltage Warning Aircraft will be forced to land,medium,medium,0.9947359
+Fly with caution and ensure the aircraft remains within your line of sight.,normal,medium,0.8937124
+Locating Landing Point,normal,normal,0.9997079
+Aircraft is flying back to the start point,normal,normal,0.99943656
+Ensure control sticks are centered during takeoff,normal,normal,0.99928254
+Cannot enable Intelligent Flight Mode: Low Battery,medium,medium,0.9997917
+Propulsion output has been limited to ensure battery health.,normal,medium,0.73858887
+Aircraft is close to the Home Point. Initiating Return to Home will now trigger Auto Landing.,normal,normal,0.999426
+Compass error. Ensure there are no metal or magnetic objects near the aircraft and calibrate it before use,low,low,0.9996878
+Large Wind Velocity. Fly with caution.,medium,medium,0.9993135
+Failed to take off. Check the USB connection with aircraft. Contact DJI Support if this error persists after restarting,low,low,0.9995802
+Critically low power. Aircraft is landing,medium,medium,0.99973196
+High wind velocity. Fly with caution.,medium,medium,0.99962234
+Extra payload detected. Return aircraft to an area nearby the home point promptly and fly in a wind-free environment to ensure flight safety,low,low,0.9997844
+Aircraft flight control obtained by remote controller B,normal,normal,0.99984145
+Altitude Less than nnn. Cannot enable Follow Me Mode,low,low,0.9994468
+Gimbal Pitch Limit Reached.,low,low,0.8973619
+Drag a box around or tap a target on screen. Then tap Go.,normal,normal,0.8657154
+Remote controller signal weak. Adjust remote controller antennas,low,low,0.98189247
+Downward sensor error. Aircraft unstable at low altitude. Please fly with caution,high,low,0.99820054
+Data Recorder File Index is 7.,normal,normal,0.9999323
+Braking now! No use to move the stick right. Avoid the obstacle,low,medium,0.912962
+Target lost. QuickShots stopped,low,low,0.9924064
+Aircraft will automatically descend in nnn,medium,normal,0.9997274
+Obstacle Avoidance disabled. Fly with caution,low,normal,0.99915504
+Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.,low,low,0.9998808
+Critical low battery. Return to home or land promptly,medium,medium,0.99976796
+Switched to T (Tripod)-mode.,normal,normal,0.99992144
+Propeller Fell Off. Motor idle. Check whether propellers are installed,high,medium,0.6207781
+Subject too Large. Move Away and retry,low,low,0.9999018
+Low battery. Recharge promptly,medium,medium,0.9995956
+GPS Position Mismatch.,medium,normal,0.9989753
+APAS has been enabled,normal,normal,0.999161
+"Critically Low Voltage Warning Land as soon as possible, otherwise the battery will be damaged",medium,medium,0.9997441
+Data Recorder File Index is 3.,normal,normal,0.99992883
+RTK Base Station Data Not Received,normal,normal,0.99974877
+Cache Space Full,medium,low,0.98633236
+Payload mode enabled. Max altitude set to nnn and max distance set to nnn to ensure flight safety,normal,normal,0.7809335
+Aircraft is in Sport Mode. Exit this mode and try again,normal,normal,0.999775
+Gimbal Roll Limit Reached.,low,low,0.93492573
+Forward Obstacle Sensing is not functioning. Ambient Light is too weak,low,low,0.99989307
+Cannot Track Subject. Cannot Identify Subject,low,low,0.99977034
+Arrived at Start Point. Starting Waypoint Mission,normal,normal,0.99987483
+Motor nnn propeller detached or installed incorrectly,high,high,0.9943252
+RTH : Ascending to RTH altitude.,normal,normal,0.9993942
+ActiveTrack Flight Paused,low,medium,0.99187475
+Aircraft is too far away,medium,low,0.99851066
+Cannot Takeoff in Travel Mode. Exit Travel Mode.,low,low,0.91501206
+Capture Failed Cannot enter Pano mode,low,low,0.9998405
+RTH Altitude : 65FT.,normal,normal,0.9998148
+The remaining battery is only enough for RTH. Return home now.,medium,medium,0.997271
+No GPS signal. Aircraft unable to hover. Fly with caution,medium,medium,0.99900514
+Compass Error. Magnetic Filed Interference. Exit P-GPS Mode,low,low,0.9384692
+Strong Interference Now. Fly with caution.,low,low,0.99931157
+Aircraft exceeded distance limit and has exited Hyperlapse mode,medium,high,0.8942922
+Data Recorder File Index is 45.,normal,normal,0.99992573
+Auxiliary Bottom Light set to automatic mode,normal,normal,0.99985695
+Battery not installed properly. Return to home immediately. Check and re-install battery,high,medium,0.9997067
+Home Point recorded. Return-to-Home Altitude : 98FT,normal,normal,0.9999056
+Compass data error. Please contact DJI Support,low,low,0.99926907
+Aircraft in Restricted Zone. Unable to take off. Check map to find Recommended Zones,high,high,0.99361753
+"Check whether propellers are installed correctly. If the propellers are installed correctly and the aircraft still cannot takeoff, a motor error may exist. Contact DJI Support for assistance",low,low,0.8372297
+Battery nnn requires maintenance,low,medium,0.9976992
+Forward Obstacle Sensing not Working.,low,low,0.9994579
+Warning: Command Timeout,medium,medium,0.9993362
+Pano shooting completed. The sky part is filled automatically,normal,normal,0.99975556
+Gimbal Recenter,normal,normal,0.9998852
+Critical Low Battery,medium,medium,0.9997466
+Cannot takeoff in a no-fly zone,low,medium,0.9662207
